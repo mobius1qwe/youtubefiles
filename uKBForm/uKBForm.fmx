@@ -1,0 +1,31 @@
+object KBForm: TKBForm
+  Left = 0
+  Top = 0
+  Caption = 'KBForm'
+  ClientHeight = 643
+  ClientWidth = 484
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  OnFocusChanged = FormFocusChanged
+  OnVirtualKeyboardShown = FormVirtualKeyboardShown
+  OnVirtualKeyboardHidden = FormVirtualKeyboardHidden
+  DesignerMasterStyle = 3
+  object VSB: TVertScrollBox
+    Align = Client
+    Size.Width = 484.000000000000000000
+    Size.Height = 643.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Viewport.Width = 484.000000000000000000
+    Viewport.Height = 643.000000000000000000
+    object Layout: TLayout
+      Align = Client
+      Size.Width = 484.000000000000000000
+      Size.Height = 643.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+    end
+  end
+end
