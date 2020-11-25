@@ -1,0 +1,61 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 480
+  ClientWidth = 289
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object VSB: TVertScrollBox
+    Align = Client
+    Size.Width = 289.000000000000000000
+    Size.Height = 380.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Viewport.Width = 289.000000000000000000
+    Viewport.Height = 380.000000000000000000
+  end
+  object HSB: THorzScrollBox
+    Align = Top
+    Position.Y = 50.000000000000000000
+    Size.Width = 289.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Viewport.Width = 289.000000000000000000
+    Viewport.Height = 50.000000000000000000
+  end
+  object FlowLayout1: TFlowLayout
+    Align = Top
+    Size.Width = 289.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Justify = Center
+    JustifyLastLine = Center
+    FlowDirection = LeftToRight
+    HorizontalGap = 5.000000000000000000
+    object BVert: TButton
+      Position.X = 10.000000000000000000
+      Size.Width = 80.000000000000000000
+      Size.Height = 49.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = 'Adicionar Vertical'
+      TextSettings.WordWrap = True
+      OnClick = BVertClick
+    end
+    object BHorz: TButton
+      Position.X = 95.000000000000000000
+      Size.Width = 80.000000000000000000
+      Size.Height = 49.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = 'Adicionar Horizontal'
+      TextSettings.WordWrap = True
+      OnClick = BHorzClick
+    end
+  end
+end

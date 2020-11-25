@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/11/25 18:26:13.726,=D:\Projetos\Temp\Unit2.pas</Transaction>
+    <Transaction>2020/11/25 18:27:00.410,D:\Projetos\Delphi\exemplo ScrollBox e Frames\uMain.fmx=D:\Projetos\Temp\Unit2.fmx</Transaction>
+    <Transaction>2020/11/25 18:27:00.410,D:\Projetos\Delphi\exemplo ScrollBox e Frames\uMain.pas=D:\Projetos\Temp\Unit2.pas</Transaction>
+    <Transaction>2020/11/25 18:27:06.181,D:\Projetos\Delphi\exemplo ScrollBox e Frames\Project1.dproj=D:\Projetos\Temp\Project1.dproj</Transaction>
+    <Transaction>2020/11/25 18:27:25.498,=D:\Projetos\Delphi\Lanchonete\src\Mobile\TermAtendimento\Telas\Componentes\ufrItemPedido.pas</Transaction>
+    <Transaction>2020/11/25 18:28:30.007,=D:\Projetos\Delphi\Lanchonete\src\Mobile\TermAtendimento\Telas\Componentes\ufrPedido.pas</Transaction>
+    <Transaction>2020/11/25 18:29:24.870,D:\Projetos\Delphi\Lanchonete\src\Mobile\TermAtendimento\Telas\Componentes\ufrItemPedido.pas=</Transaction>
+    <Transaction>2020/11/25 18:29:26.728,D:\Projetos\Delphi\Lanchonete\src\Mobile\TermAtendimento\Telas\Componentes\ufrPedido.pas=</Transaction>
+    <Transaction>2020/11/25 18:30:07.832,=D:\Projetos\Delphi\exemplo ScrollBox e Frames\componentes\ufrCategoria.pas</Transaction>
+    <Transaction>2020/11/25 18:30:07.964,=D:\Projetos\Delphi\exemplo ScrollBox e Frames\componentes\ufrItemDetalhe.pas</Transaction>
+    <Transaction>2020/11/25 18:30:08.113,=D:\Projetos\Delphi\exemplo ScrollBox e Frames\componentes\ufrItemPedido.pas</Transaction>
+    <Transaction>2020/11/25 18:30:08.256,=D:\Projetos\Delphi\exemplo ScrollBox e Frames\componentes\ufrPedido.pas</Transaction>
+    <Transaction>2020/11/25 18:39:31.195,D:\Projetos\Delphi\exemplo ScrollBox e Frames\componentes\ufrItemDetalhe.pas=</Transaction>
+    <Transaction>2020/11/25 18:39:35.571,D:\Projetos\Delphi\exemplo ScrollBox e Frames\componentes\ufrItemPedido.pas=</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>

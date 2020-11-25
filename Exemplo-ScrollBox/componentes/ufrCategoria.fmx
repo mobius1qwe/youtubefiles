@@ -1,0 +1,29 @@
+object frCategoria: TfrCategoria
+  HitTest = False
+  Size.Width = 305.000000000000000000
+  Size.Height = 44.000000000000000000
+  Size.PlatformDefault = False
+  object RoundRect1: TRoundRect
+    Align = Client
+    Margins.Left = 5.000000000000000000
+    Margins.Top = 5.000000000000000000
+    Margins.Right = 5.000000000000000000
+    Margins.Bottom = 5.000000000000000000
+    Size.Width = 295.000000000000000000
+    Size.Height = 34.000000000000000000
+    Size.PlatformDefault = False
+    object Rotulo: TLabel
+      Align = Client
+      StyledSettings = [FontColor]
+      Size.Width = 295.000000000000000000
+      Size.Height = 34.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.Font.Family = 'Roboto'
+      TextSettings.Font.Size = 20.000000000000000000
+      TextSettings.Font.StyleExt = {00050000000000000004000000}
+      TextSettings.HorzAlign = Center
+      Text = 'Rotulo'
+      TabOrder = 0
+    end
+  end
+end
