@@ -100,7 +100,6 @@ begin
       FNeedOffset := True;
       Layout.Align := TAlignLayout.Horizontal;
       VSB.RealignContent;
-      Application.ProcessMessages;
       VSB.ViewportPosition :=
         PointF(VSB.ViewportPosition.X,
         LFocusRect.Bottom - FKBBounds.Top);
